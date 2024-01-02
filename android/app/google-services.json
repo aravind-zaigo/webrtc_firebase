@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "199596381058",
+    "project_id": "money-manager-20dd4",
+    "storage_bucket": "money-manager-20dd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199596381058:android:e8bbc8291f4493c01c359b",
+        "android_client_info": {
+          "package_name": "com.money_manager.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199596381058-iesq0a78n9pl3h2f3lo35s8a33sfkubs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoXdQG8-t9pbfqFnQYxVV_5kjbtRUXU3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199596381058-iesq0a78n9pl3h2f3lo35s8a33sfkubs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199596381058:android:47db7a007ad000d81c359b",
+        "android_client_info": {
+          "package_name": "dev.flutterexplained.webrtc_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199596381058-iesq0a78n9pl3h2f3lo35s8a33sfkubs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoXdQG8-t9pbfqFnQYxVV_5kjbtRUXU3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199596381058-iesq0a78n9pl3h2f3lo35s8a33sfkubs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
